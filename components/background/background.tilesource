@@ -1,0 +1,10 @@
+image: "/components/background/assets/background.png"
+tile_width: 240
+tile_height: 160
+tile_margin: 0
+tile_spacing: 0
+collision: ""
+material_tag: "tile"
+extrude_borders: 2
+inner_padding: 0
+sprite_trim_mode: SPRITE_TRIM_MODE_OFF
